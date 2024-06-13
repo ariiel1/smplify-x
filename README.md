@@ -1,4 +1,4 @@
-## Expressive Body Capture: 3D Hands, Face, and Body from a Single Image
+## SMPLify-x with small updates so it can run properly
 
 [[Project Page](https://smpl-x.is.tue.mpg.de/)] 
 [[Paper](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf)]
